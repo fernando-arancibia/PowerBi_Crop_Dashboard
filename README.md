@@ -1,7 +1,8 @@
-# Power_BI_project
+# Power_BI_project for crop production.
+
 ## 1. Weekly_report
 
-### This dashboard analyzes the main metrics of weekly production in high capacity greenhouse production.
+### This dashboard created on Power Bi, analyzes the main metrics of weekly production, in high capacity greenhouse crop production.
 ### Among the main metrics displayed are: 
 + Potting count per day. 
 + Bach count per zone.
