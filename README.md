@@ -1,4 +1,4 @@
-# Power_BI_project for crop production.
+# Power_BI dashboard project for crop production.
 
 ## 1. Weekly_report
 
