@@ -1,8 +1,8 @@
-# Power_BI dashboard project for crop production.
+# Power_BI Crop Production Dashboard. 🌱
 
 ## 1. Weekly_report
 
-### This dashboard created on Power Bi, analyzes the main metrics of weekly production, in high capacity greenhouse crop production.
+### This dashboard created on Power BI, analyzes the main metrics of weekly production, in high-capacity greenhouse crop production.
 ### Among the main metrics displayed are: 
 + Potting count per day. 
 + Bach count per zone.
@@ -16,7 +16,7 @@
 
 ## Potting count per day
 
-This bart chart shows the total daily production of plants during a period of one week, 
+This bar chart shows the total daily production of plants during a period of one week, 
 very important metric to plan the weekly workload.
 
 
@@ -24,23 +24,23 @@ very important metric to plan the weekly workload.
 
 ## Bash count per zone
 
-This chart explain the number of bachs that was processed on the week, Indicates diferent zones where plant belong,
-and get a referal for the management in the greenhouse.
+This chart explains the number of bachs that were processed on the week, Indicates different zones where plants belong,
+and get a referral for the management of the greenhouse.
 
 ![image](https://user-images.githubusercontent.com/84011018/163442471-53834690-fcbb-46ff-a3a7-9628661d0923.png)
 
 ## 3. Pie_charts
 
-A general description for this charts come next.
+A general description of these charts comes next.
 
-+ Target compliance ratio: this chart work like indicator for the achievements of targets 
++ Target compliance ratio: this chart works like an indicator for the achievements of targets 
 + Viability ratio in hardening: this chart indicates how is the survival of the plants in the greenhouse.
 + Plant growth period: whit this indicator you can have a vision of the growing lapses in the greenhouse.
 
 ![image](https://user-images.githubusercontent.com/84011018/163442695-9fea18c5-53b1-4b87-b2c4-24ef0faa3b7a.png)
 
-In general the purpose of this dashboards is visualize how the production process is running and working throw the indicators described before,
-is a useful tool that support the process management.
+In general, the purpose of these dashboards is to visualize how the production process is running and working through the indicators described before,
+is a useful tool that supports the process management.
 
 ## Thanks for watching!
 
